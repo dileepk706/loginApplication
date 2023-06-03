@@ -1,0 +1,45 @@
+body{
+    background-image: url('/assets/5172658.jpg');
+    background-size: cover;
+ }
+/** own customisation*/
+.Dash-font-style{
+    color: aquamarine;
+}
+
+.Dash-user-name-font-style{
+    color: forestgreen;
+}
+
+.btnPading{
+    padding-left: 76px;
+    padding-top: 22px;
+}
+
+.Head-text-center{
+    padding-left: 24px;
+}
+
+.Head-text-color{
+    color: aliceblue;
+}
+
+.span{
+    font-size: .9em;
+}
+ 
+/** own customisation*/
+
+
+
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .3em 3em;
+}
+
+
+ 

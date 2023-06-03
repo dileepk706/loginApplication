@@ -1,0 +1,13 @@
+<%- include('header') -%>
+
+
+<div class="text-center center-div mt-5" id="login">
+    <div class="container w-25 py-5 mt-5 ">
+        <h1 class="Dash-font-style">Welcome to nodeJs Dashbord</h1>
+        <h4 class="Dash-user-name-font-style"><%= locals.user ? user : 'User'%></h4>
+        <a href="/logout">Logout</a>
+    </div>
+</div>
+
+
+<%- include('footer') -%>
